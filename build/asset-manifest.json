@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.613fa7d0.chunk.css",
+    "main.js": "/static/js/main.25525527.chunk.js",
+    "main.js.map": "/static/js/main.25525527.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.88acc1fa.chunk.js": "/static/js/2.88acc1fa.chunk.js",
+    "static/js/2.88acc1fa.chunk.js.map": "/static/js/2.88acc1fa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.beb41acf02a5816786bfaa8bfab71e34.js": "/precache-manifest.beb41acf02a5816786bfaa8bfab71e34.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.613fa7d0.chunk.css.map": "/static/css/main.613fa7d0.chunk.css.map",
+    "static/media/ada.png": "/static/media/ada.e4293201.png",
+    "static/media/App.css": "/static/media/nebulabg.605834ea.jpg",
+    "static/media/reactlogo.svg": "/static/media/reactlogo.ee61ca49.svg",
+    "static/media/room-12.jpeg": "/static/media/room-12.0e293352.jpeg",
+    "static/media/w3c.png": "/static/media/w3c.86d58987.png"
+  }
+}
